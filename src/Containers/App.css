@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Final Front 3D Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Final Front 3D Regular'), url('finalfront3d.woff') format('woff');
+}
+h1 {
+  font-family: 'Final Front 3D Regular';
+  font-weight: 200;
+  color: #0ccac4;
+}
